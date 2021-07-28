@@ -378,7 +378,7 @@ hr
 {
     padding-top: 20px;
 }
-.team-facebook, .team-twitter, .team-google-plus 
+.team-facebook, .team-twitter, .team-google-plus, .team-linkedin 
 {
     color: rgb(32, 178, 170);
 } 
@@ -391,6 +391,10 @@ hr
     transform:;
 }
 .team-twitter:hover
+{
+    color: #0EAACE;
+}
+.team-linkedin:hover
 {
     color: #0EAACE;
 }
@@ -728,6 +732,14 @@ a
     background-color: #3acab1;
 }
 .twitter:hover
+{
+    background-color: #0EAACE;
+}
+.linkedin
+{
+    background-color: #3acab1;
+}
+.linkedin:hover
 {
     background-color: #0EAACE;
 }
